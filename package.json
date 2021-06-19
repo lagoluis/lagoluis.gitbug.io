@@ -1,5 +1,6 @@
 {
-	"author": "fccac71d728",
+	"author": "Luis",
+	"description": "This is a boilerplate project from freecodecamp",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.17.1"
